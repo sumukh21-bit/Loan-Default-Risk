@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+.env
+venv/
+
+# Node / React
+node_modules/
+dist/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+DATA.csv
+*.csv
