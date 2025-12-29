@@ -15,3 +15,6 @@ Thumbs.db
 
 DATA.csv
 *.csv
+*.pkl
+__pycache__/
+node_modules/
